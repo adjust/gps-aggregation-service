@@ -5,3 +5,4 @@ crds.yml
 .terraform.lock.hcl
 .tfvars
 codebuild.auto.tfvars
+/build-scripts/aws/terraform/codebuild.auto.tfvars
